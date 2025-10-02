@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+nav{
+	border:2px solid black;
+}
+ul{
+	position:relative;
+	left:55%;
+	display:flex;
+	gap:20px;
+}
+a{
+	text-decoration:none;
+}
